@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description/>
+        <direct>false</direct>
+        <endpoint>sn_appdemo_uip1ad.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+
+</j:jelly>]]></html>
+        <name>uip1ad</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-15 18:57:55</sys_created_on>
+        <sys_id>d96666b45332320081e029cac2dc3485</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>uip1ad</sys_name>
+        <sys_package display_value="appDemo" source="sn_appdemo">b65626b45332320081e029cac2dc34f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="appDemo">b65626b45332320081e029cac2dc34f5</sys_scope>
+        <sys_update_name>sys_ui_page_d96666b45332320081e029cac2dc3485</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-15 18:57:55</sys_updated_on>
+    </sys_ui_page>
+</record_update>
